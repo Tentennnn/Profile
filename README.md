@@ -5,7 +5,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/Tentennnn">
-    <img src="https://lanyard.cnrad.dev/api/356510829920780289"/>
+    <img src="https://discord.com/users/356510829920780289"/>
      </a>
 </p>
 <br><br>
