@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>TENTENNNNN</b>
+  <b>Tentennnn Love You!!</b>
 </h1>
 
 Heya! I'm Tenten, a student currently living in Phnom Penh, Cambodia. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">Jee</a>, 
 and learning programming through small projects  on the side.
 
 <br>
