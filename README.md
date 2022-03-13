@@ -1,7 +1,6 @@
 <p align='center'>
-  <b>Hi 👋, I'm Just</b><br>
+  <b>Hi 👋, I'm Tentennnn</b><br>
   <a href="https://discord.gg/gUfmT2ehy8">Discord</a> |
-  <a href="https://www.youtube.com/c/decoders1">YouTube</a>
 </p>
 
 <p align="center"><br>
