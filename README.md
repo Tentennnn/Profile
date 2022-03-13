@@ -10,6 +10,8 @@ and learning programming through small projects  on the side.
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-f7c845?style=for-the-badge&logo=javascript&logoColor=f7c845&labelColor=282828">
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-2237bf?style=for-the-badge&logo=typescript&logoColor=2237bf&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
@@ -20,7 +22,7 @@ and learning programming through small projects  on the side.
 class Tentennnn():
     
   def __init__(self):
-    self.name = "Chilong";
+    self.name = "Jinglong";
     self.username = "Tentennnn";
     self.location = "Phnom Penh, Cambodia";
     self.discord = "Tentennnn#6944";
@@ -33,7 +35,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/2Qxc2NJ7yPKVFRWi3llRr2">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
