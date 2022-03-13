@@ -4,9 +4,10 @@
 </p>
 
 <p align="center"><br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/356510829920780289)](https://discord.com/users/356510829920780289)
+  <a href="https://github.com/Tentennnn">
+    <img src="https://lanyard.cnrad.dev/api/356510829920780289"/>
+     </a>
 </p>
-
 <br><br>
 <p align="center">
 	<b>Languages & Frameworks</b>
