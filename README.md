@@ -4,8 +4,7 @@
 </p>
 
 <p align="center"><br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/356510829920780289
-                            )](https://discord.com/users/356510829920780289)
+[![Discord Presence](https://lanyard.cnrad.dev/api/356510829920780289)](https://discord.com/users/356510829920780289)
 </p>
 
 <br><br>
