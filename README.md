@@ -1,30 +1,62 @@
-<p align='center'>
-  <b>Hi 👋, I'm Tentennnn, From Cambodia !!</b><br>
-  <a href="https://discord.gg/gUfmT2ehy8">Discord</a>
+<h1 align="center">
+  <b>TENTENNNNN</b>
+</h1>
+
+Heya! I'm Tenten, a student currently living in Phnom Penh, Cambodia. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+and learning programming through small projects  on the side.
+
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
 </p>
 
-<p align="center"><br>
-  <a href="https://github.com/Tentennnn">
-    <img src="https://discord.com/users/356510829920780289"/>
-     </a>
+```python
+class Tentennnn():
+    
+  def __init__(self):
+    self.name = "Chilong";
+    self.username = "Tentennnn";
+    self.location = "Phnom Penh, Cambodia";
+    self.discord = "Tentennnn#6944";
+    self.web = "https://tenbot.xyz";
+  
+  def __str__(self):
+    return self.name
+if __name__ == '__main__':
+    me = Tentennnn()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://tenbot.xyz/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
-<br><br>
-<p align="center">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-	<br><br>
-	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSaksh&theme=dark&hide_border=true">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=NotSaksh&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-</p>
+<br>
+
+[![Tenten Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tenbot.xyz)
+
+
