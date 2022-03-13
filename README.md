@@ -1,12 +1,11 @@
 <p align='center'>
   <b>Hi 👋, I'm Tentennnn</b><br>
-  <a href="https://discord.gg/gUfmT2ehy8">Discord</a> |
+  <a href="https://discord.gg/gUfmT2ehy8">Discord</a>
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/Tentennnn">
-    <img src="https://lanyard.cnrad.dev/api/356510829920780289"/>
-     </a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/356510829920780289
+                            )](https://discord.com/users/356510829920780289)
 </p>
 
 <br><br>
