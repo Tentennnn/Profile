@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Tentennnn</b><br>
+  <b>Hi 👋, I'm Tentennnn, From Cambodia !!</b><br>
   <a href="https://discord.gg/gUfmT2ehy8">Discord</a>
 </p>
 
