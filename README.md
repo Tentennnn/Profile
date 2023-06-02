@@ -33,13 +33,13 @@ class Tentennnn():
 if __name__ == '__main__':
     me = Tentennnn()
 ```
-
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/2Qxc2NJ7yPKVFRWi3llRr2">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
-
+-->
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -58,7 +58,7 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
+<!--
 [![Tenten Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Tentennnn%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tenbot.xyz)
-
+-->
 
