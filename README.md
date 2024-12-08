@@ -22,11 +22,11 @@ and learning programming through small projects  on the side.
 class Tentennnn():
     
   def __init__(self):
-    self.name = "Jinglong";
+    self.name = "LIM CHILONG";
     self.username = "Tentennnn";
     self.location = "Phnom Penh, Cambodia";
-    self.discord = "Tentennnn#6944";
-    self.web = "https://tenbot.xyz";
+    self.discord = "Tenten#9999";
+    self.web = "sabatnetwork.xyz";
   
   def __str__(self):
     return self.name
